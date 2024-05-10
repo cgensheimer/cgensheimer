@@ -1,4 +1,5 @@
-### Hi there 👋
+### Student and Developer 
+Georgia Institute of Technology
 
 <!--
 **cgensheimer/cgensheimer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
